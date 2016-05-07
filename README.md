@@ -12,23 +12,14 @@ Keep ALL your lists in one place.This effective to-do list lets you keep track o
 It does the following things:
 
 -Organise tasks
-
 -To do list & Shopping list
-
 -Get things done (GTD)
-
 -Organise your schedule by note in calendar
-
 -Reminder notes on status bar
-
 -Search notes
-
 -Powerful Reminder : Time Alarm, All day, Repetition.
-
 -Quick memo / notes
-
 -Share notes via SMS, email, twitter
-
 -Gesture based operation (swipe to cross) -Designed to be quick and unobtrusive
 
 
